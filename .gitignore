@@ -4,6 +4,7 @@ lib
 
 #grunt and jasmine artificats
 node_modules/
+bower_components/
 SpecRunner.html
 .grunt
 
